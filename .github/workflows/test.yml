@@ -1,8 +1,8 @@
-name: Java CI with Maven
+name: Acciojob Tests
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main","master" ]
 
 jobs:
   checking-question-type:
